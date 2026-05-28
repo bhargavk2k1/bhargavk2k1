@@ -21,9 +21,6 @@ I'm a **Full Stack Engineer** with **2+ years** of experience designing, buildin
 
 When I'm not coding, I'm creating content and helping other devs level up.
 
-- 🎥 I share tutorials and dev tips on **YouTube**
-- ✍️ I write deep-dive articles on **Medium**
-- 📸 I post bite-sized dev content on **Instagram**
 - 🌱 Currently exploring **System Design**, **AI**, and **DevOps**
 - ⚡ Fun fact: I believe great code is like a great story — clean, clear, and worth re-reading
 
