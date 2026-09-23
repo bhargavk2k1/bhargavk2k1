@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="40" /> Hey there, I'm Bhargav Kommineni
+  <img src=" " width="40" /> Hey there, I'm Bhargav Kommineni
 </h1>
 
 <p align="center">
